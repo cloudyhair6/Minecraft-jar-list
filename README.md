@@ -1,12 +1,10 @@
 # Minecraft-jar-list
 
-
+###
 Total versions in manifest: 847
 
 Versions with downloadable server.jar: 780
-`dsffd
-sdfsdf`
-dsf
+`
 id                                       type       releaseTime          server_url
 ------------------------------------------------------------------------------------------------------------------------
 25w44a                                   snapshot   2025-10-28T14:02:28+00:00 https://piston-data.mojang.com/v1/objects/1ade1ebd6affbfed6dbfb2ce8864cf19efed07ba/server.jar
@@ -790,6 +788,7 @@ id                                       type       releaseTime          server_
 1.3                                      snapshot   2012-07-25T22:00:00+00:00 https://launcher.mojang.com/v1/objects/cb21a9aaaf599c94dd7fa1b777b2f0cc37a776c7/server.jar
 1.2.5                                    release    2012-03-29T22:00:00+00:00 https://launcher.mojang.com/v1/objects/d8321edc9470e56b8ad5c67bbd16beba25843336/server.jar
 ------------------------------------------------------------------------------------------------------------------------
+`
 Summary:
   Total versions in manifest: 847
   Versions checked (had metadata url): 847
