@@ -4,7 +4,7 @@
 Total versions in manifest: 847
 
 Versions with downloadable server.jar: 780
-'fdsf
+'fdsf'
 dsfdsf
 id                                       type       releaseTime          server_url
 ------------------------------------------------------------------------------------------------------------------------
